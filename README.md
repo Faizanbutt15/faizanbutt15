@@ -1,9 +1,9 @@
 # Hi there 👋, I'm Faizan Butt
 
- ###🚀 About Me:
-*🌐 Full Stack Web Developer specializing in the MERN Stack.
-*🤖 Passionate about building interactive web applications.
-*💬 Ask me about Tech, Coding, or Anything!
+### 🚀 About Me:
+* 🌐 Full Stack Web Developer specializing in the MERN Stack and laravel.
+* 🤖 Passionate about building interactive web applications.
+* 💬 Ask me about Tech, Coding, or Anything!
 
 # 🌐 Socials:
 
