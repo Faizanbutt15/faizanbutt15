@@ -1,11 +1,12 @@
 # Hi there 👋, I'm Faizan Butt
 
  🚀 About Me:
- 🌐 Full Stack Web Developer specializing in the Laravel and MERN Stack.
- 🤖 Passionate about building interactive web applications.
- 💬 Ask me about Tech, Coding, or Anything!
+🌐 Full Stack Web Developer specializing in the MERN Stack.
+🤖 Passionate about building interactive web applications.
+💬 Ask me about Tech, Coding, or Anything!
 
- 🌐 Socials:
+# 🌐 Socials:
+
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/faizanbutt15)
 [![Website](https://img.shields.io/badge/WEBSITE-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://faizan-masood-portfolio.vercel.app/)
 ---
